@@ -1,0 +1,21 @@
+{
+  "name": "task-manager-sql-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}
